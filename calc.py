@@ -13,5 +13,3 @@ if y == 0:
 	print("can't do it")
 else:
 	print(f"Div: {x / y}")
-
-
